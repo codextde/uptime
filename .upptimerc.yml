@@ -13,8 +13,21 @@ sites:
     url: https://adeo.codext.de:8006/
   - name: Codext Server - Lina
     url: https://lina.codext.de:8006/
-  - name: Webaro
+  - name: Webaro Cloud
     url: https://webaro.cloud/
+  - name: Codext Sentry
+    url: https://sentry.codext.de/
+  - name: Codext Wiki
+    url: https://wiki.codext.de/
+  - name: Codext Cloud
+    url: https://codext.cloud/
+  - name: convertAny
+    url: https://convert-any.com/
+  - name: deinkind.store
+    url: https://deinkind.store/
+  - name: PayStory API
+    url: https://api.paystory.de/
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
