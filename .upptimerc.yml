@@ -5,13 +5,13 @@ repo: uptime # The name of this repository
 sites:
   - name: Codext Website
     url: https://codext.de/
-  - name: Codext Server: Server01
+  - name: Codext Server - Server01
     url: https://server01.codext.de:8443/
-  - name: Codext Server:  Lara
+  - name: Codext Server - Lara
     url: https://lara.codext.de:8006/
-  - name: Codext Server:  Adeo
+  - name: Codext Server - Adeo
     url: https://adeo.codext.de:8006/
-  - name: Codext Server:  Lina
+  - name: Codext Server - Lina
     url: https://lina.codext.de:8006/
   - name: Webaro
     url: https://webaro.cloud/
