@@ -17,8 +17,6 @@ sites:
     url: https://webaro.cloud/
   - name: Codext Sentry
     url: https://sentry.codext.de/
-  - name: Codext Wiki
-    url: https://wiki.codext.de/
   - name: Codext Cloud
     url: https://codext.cloud/
   - name: convertAny
