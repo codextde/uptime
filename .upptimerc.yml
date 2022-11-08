@@ -15,6 +15,8 @@ sites:
     url: https://lina.codext.de:8006/
   - name: Codext Openreplay
     url: https://openreplay.codext.de/
+  - name: Codext Dashboard
+    url: https://dashboard.codext.de/
   - name: Webaro Cloud
     url: https://webaro.cloud/
   - name: Codext Sentry
