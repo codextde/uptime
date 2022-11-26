@@ -4,19 +4,19 @@
     "url": "https://codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.de.ico",
     "slug": "codext-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1893,
-    "timeDay": 2536,
-    "timeWeek": 2180,
-    "timeMonth": 1893,
-    "timeYear": 1893,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1903,
+    "timeDay": 2416,
+    "timeWeek": 2179,
+    "timeMonth": 1903,
+    "timeYear": 1903,
     "dailyMinutesDown": {
-      "2022-11-26": 0
+      "2022-11-26": 10
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://openreplay.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/openreplay.codext.de.ico",
     "slug": "codext-openreplay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 378,
-    "timeWeek": 462,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 427,
+    "timeDay": 437,
+    "timeWeek": 466,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2022-11-26": 0
+      "2022-11-26": 10
     }
   },
   {
