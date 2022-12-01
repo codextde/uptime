@@ -4,19 +4,19 @@
     "url": "https://codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.de.ico",
     "slug": "codext-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1847,
-    "timeDay": 1142,
-    "timeWeek": 1841,
-    "timeMonth": 1847,
-    "timeYear": 1847,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1837,
+    "timeDay": 1258,
+    "timeWeek": 1809,
+    "timeMonth": 1837,
+    "timeYear": 1837,
     "dailyMinutesDown": {
-      "2022-12-01": 0
+      "2022-12-01": 14
     }
   },
   {
