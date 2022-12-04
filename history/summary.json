@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openreplay.codext.de.ico",
     "slug": "codext-openreplay",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 416,
     "timeDay": 405,
     "timeWeek": 381,
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2022-12-04": 0
+      "2022-12-04": 52
     }
   },
   {
