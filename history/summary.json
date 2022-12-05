@@ -94,10 +94,10 @@
     "url": "https://openreplay.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/openreplay.codext.de.ico",
     "slug": "codext-openreplay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "98.67%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "98.66%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
     "time": 418,
@@ -106,7 +106,7 @@
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2022-12-05": 27,
+      "2022-12-05": 29,
       "2022-12-04": 107
     }
   },
@@ -152,18 +152,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentry.codext.de.ico",
     "slug": "codext-sentry",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.21%",
+    "uptimeDay": "77.36%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 770,
     "timeDay": 712,
     "timeWeek": 716,
     "timeMonth": 770,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2022-12-05": 17
+      "2022-12-05": 326
     }
   },
   {
