@@ -40,19 +40,19 @@
     "url": "https://lara.codext.de:8006/",
     "icon": "https://icons.duckduckgo.com/ip3/lara.codext.de.ico",
     "slug": "codext-server-lara",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 503,
-    "timeDay": 569,
-    "timeWeek": 545,
-    "timeMonth": 530,
-    "timeYear": 503,
+    "time": 502,
+    "timeDay": 496,
+    "timeWeek": 530,
+    "timeMonth": 527,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-01-25": 7
+      "2023-01-25": 16
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://adeo.codext.de:8006/",
     "icon": "https://icons.duckduckgo.com/ip3/adeo.codext.de.ico",
     "slug": "codext-server-adeo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 484,
-    "timeDay": 538,
-    "timeWeek": 535,
-    "timeMonth": 502,
+    "timeDay": 505,
+    "timeWeek": 528,
+    "timeMonth": 501,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2023-01-25": 4
+      "2023-01-25": 15
     }
   },
   {
@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2023-01-25": 541,
+      "2023-01-25": 556,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
