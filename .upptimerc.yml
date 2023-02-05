@@ -9,8 +9,8 @@ sites:
     url: https://server01.codext.de:8443/
   - name: Codext Server - Lara
     url: https://lara.codext.de:8006/
-  - name: Codext Server - Adeo
-    url: https://adeo.codext.de:8006/
+#  - name: Codext Server - Adeo
+#    url: https://adeo.codext.de:8006/
   - name: Codext Server - Lina
     url: https://lina.codext.de:8006/
   - name: Codext Openreplay
