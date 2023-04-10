@@ -4,19 +4,19 @@
     "url": "https://codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.de.ico",
     "slug": "codext-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1786,
-    "timeDay": 1082,
-    "timeWeek": 1730,
-    "timeMonth": 1719,
-    "timeYear": 1786,
+    "time": 1788,
+    "timeDay": 1416,
+    "timeWeek": 1769,
+    "timeMonth": 1730,
+    "timeYear": 1788,
     "dailyMinutesDown": {
-      "2023-04-10": 0
+      "2023-04-10": 10
     }
   },
   {
@@ -225,19 +225,19 @@
     "url": "https://codext.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.cloud.ico",
     "slug": "codext-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 467,
-    "timeDay": 507,
-    "timeWeek": 501,
-    "timeMonth": 454,
-    "timeYear": 467,
+    "time": 468,
+    "timeDay": 528,
+    "timeWeek": 509,
+    "timeMonth": 457,
+    "timeYear": 468,
     "dailyMinutesDown": {
-      "2023-04-10": 0,
+      "2023-04-10": 10,
       "2023-01-26": 17
     }
   },
@@ -302,17 +302,19 @@
     "url": "https://api.smartbell.codext.de/v1",
     "icon": "https://icons.duckduckgo.com/ip3/api.smartbell.codext.de.ico",
     "slug": "smartbell-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 403,
-    "timeWeek": 443,
-    "timeMonth": 448,
-    "timeYear": 436,
-    "dailyMinutesDown": {}
+    "time": 437,
+    "timeDay": 461,
+    "timeWeek": 453,
+    "timeMonth": 450,
+    "timeYear": 437,
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   }
 ]
