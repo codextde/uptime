@@ -4,18 +4,20 @@
     "url": "https://codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.de.ico",
     "slug": "codext-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1788,
-    "timeDay": 1416,
-    "timeWeek": 1769,
-    "timeMonth": 1730,
-    "timeYear": 1788,
-    "dailyMinutesDown": {}
+    "time": 1780,
+    "timeDay": 1169,
+    "timeWeek": 1636,
+    "timeMonth": 1692,
+    "timeYear": 1780,
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   },
   {
     "name": "Codext Server - Server01",
