@@ -325,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.we-two.de.ico",
     "slug": "we-two-api",
     "status": "down",
-    "uptime": "8.17%",
-    "uptimeDay": "8.17%",
-    "uptimeWeek": "8.17%",
-    "uptimeMonth": "8.17%",
-    "uptimeYear": "8.17%",
+    "uptime": "3.66%",
+    "uptimeDay": "3.66%",
+    "uptimeWeek": "3.66%",
+    "uptimeMonth": "3.66%",
+    "uptimeYear": "3.66%",
     "time": 867,
     "timeDay": 867,
     "timeWeek": 867,
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2023-06-05": 0
+      "2023-06-05": 1
     }
   }
 ]
