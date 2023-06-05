@@ -5,6 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Codext Website
     url: https://codext.de/
+  - name: Codext Analytics
+    url: https://analytics.codext.de/
+  - name: Codext Link
+    url: https://codext.link/
   - name: Codext Server - Server01
     url: https://server01.codext.de:8443/
   - name: Codext Server - Lara
