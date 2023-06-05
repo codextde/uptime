@@ -31,6 +31,8 @@ sites:
     url: https://api.paystory.de/
   - name: Smartbell API
     url: https://api.smartbell.codext.de/v1
+  - name: WeTwo API
+    url: https://api.we-two.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
