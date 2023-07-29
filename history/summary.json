@@ -117,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openreplay.codext.de.ico",
     "slug": "codext-openreplay",
     "status": "up",
-    "uptime": "95.40%",
+    "uptime": "95.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.40%",
+    "uptimeYear": "95.41%",
     "time": 485,
     "timeDay": 391,
     "timeWeek": 461,
@@ -190,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentry.codext.de.ico",
     "slug": "codext-sentry",
     "status": "up",
-    "uptime": "77.24%",
+    "uptime": "77.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.24%",
+    "uptimeYear": "77.31%",
     "time": 801,
     "timeDay": 586,
     "timeWeek": 852,
@@ -382,6 +382,84 @@
     "timeYear": 631,
     "dailyMinutesDown": {
       "2023-06-05": 73
+    }
+  },
+  {
+    "name": "Codext Shopify Apps API",
+    "url": "49.13.16.142",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "codext-shopify-apps-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Codext Customer 1",
+    "url": "168.119.226.168",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "codext-customer-1",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-29": 0
+    }
+  },
+  {
+    "name": "Codext Coturn",
+    "url": "49.13.54.252",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "codext-coturn",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-29": 0
+    }
+  },
+  {
+    "name": "Codext Rustdesk Public Server",
+    "url": "88.99.224.152",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "codext-rustdesk-public-server",
+    "status": "down",
+    "uptime": "5.96%",
+    "uptimeDay": "5.96%",
+    "uptimeWeek": "5.96%",
+    "uptimeMonth": "5.96%",
+    "uptimeYear": "5.96%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-29": 0
     }
   }
 ]
