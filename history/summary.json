@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1362,
-    "timeDay": 160,
-    "timeWeek": 348,
-    "timeMonth": 249,
-    "timeYear": 1362,
+    "time": 1358,
+    "timeDay": 152,
+    "timeWeek": 322,
+    "timeMonth": 246,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2023-04-10": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 501,
-    "timeWeek": 576,
-    "timeMonth": 680,
-    "timeYear": 678,
+    "time": 675,
+    "timeDay": 499,
+    "timeWeek": 566,
+    "timeMonth": 674,
+    "timeYear": 675,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 448,
-    "timeWeek": 464,
-    "timeMonth": 502,
-    "timeYear": 501,
+    "time": 496,
+    "timeDay": 350,
+    "timeWeek": 438,
+    "timeMonth": 494,
+    "timeYear": 496,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 747,
-    "timeWeek": 788,
-    "timeMonth": 893,
-    "timeYear": 903,
+    "time": 902,
+    "timeDay": 746,
+    "timeWeek": 783,
+    "timeMonth": 889,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 484,
-    "timeDay": 408,
-    "timeWeek": 402,
-    "timeMonth": 449,
+    "timeDay": 399,
+    "timeWeek": 400,
+    "timeMonth": 447,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
-    "timeDay": 331,
-    "timeWeek": 399,
-    "timeMonth": 451,
+    "timeDay": 361,
+    "timeWeek": 398,
+    "timeMonth": 449,
     "timeYear": 467,
     "dailyMinutesDown": {}
   },
@@ -123,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.42%",
     "time": 484,
-    "timeDay": 397,
-    "timeWeek": 461,
-    "timeMonth": 494,
+    "timeDay": 400,
+    "timeWeek": 453,
+    "timeMonth": 491,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2022-12-17": 946,
@@ -156,9 +156,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
-    "timeDay": 426,
-    "timeWeek": 517,
-    "timeMonth": 642,
+    "timeDay": 461,
+    "timeWeek": 515,
+    "timeMonth": 637,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2022-12-28": 18
@@ -175,11 +175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 800,
-    "timeDay": 671,
-    "timeWeek": 778,
-    "timeMonth": 812,
-    "timeYear": 800,
+    "time": 799,
+    "timeDay": 665,
+    "timeWeek": 766,
+    "timeMonth": 807,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2023-03-29": 22
     }
@@ -190,15 +190,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentry.codext.de.ico",
     "slug": "codext-sentry",
     "status": "up",
-    "uptime": "77.32%",
+    "uptime": "77.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.32%",
+    "uptimeYear": "77.36%",
     "time": 801,
-    "timeDay": 752,
-    "timeWeek": 827,
-    "timeMonth": 868,
+    "timeDay": 794,
+    "timeWeek": 828,
+    "timeMonth": 867,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2023-06-25": 784,
@@ -279,9 +279,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
-    "timeDay": 329,
-    "timeWeek": 401,
-    "timeMonth": 496,
+    "timeDay": 332,
+    "timeWeek": 394,
+    "timeMonth": 491,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2023-01-26": 17
@@ -299,9 +299,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 107,
-    "timeWeek": 145,
-    "timeMonth": 149,
+    "timeDay": 109,
+    "timeWeek": 140,
+    "timeMonth": 148,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -317,9 +317,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
-    "timeDay": 365,
-    "timeWeek": 439,
-    "timeMonth": 482,
+    "timeDay": 314,
+    "timeWeek": 417,
+    "timeMonth": 475,
     "timeYear": 405,
     "dailyMinutesDown": {}
   },
@@ -335,9 +335,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 631,
-    "timeDay": 462,
-    "timeWeek": 568,
-    "timeMonth": 627,
+    "timeDay": 506,
+    "timeWeek": 566,
+    "timeMonth": 625,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2023-01-04": 53
@@ -355,13 +355,33 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 432,
-    "timeDay": 305,
-    "timeWeek": 366,
-    "timeMonth": 426,
+    "timeDay": 316,
+    "timeWeek": 361,
+    "timeMonth": 423,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2023-04-11": 373,
       "2023-04-10": 92
+    }
+  },
+  {
+    "name": "Smartbell DB",
+    "url": "167.235.158.98",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "smartbell-db",
+    "status": "down",
+    "uptime": "78.55%",
+    "uptimeDay": "78.55%",
+    "uptimeWeek": "78.55%",
+    "uptimeMonth": "78.55%",
+    "uptimeYear": "78.55%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-30": 0
     }
   },
   {
@@ -375,11 +395,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 629,
-    "timeDay": 513,
-    "timeWeek": 564,
-    "timeMonth": 611,
-    "timeYear": 629,
+    "time": 626,
+    "timeDay": 479,
+    "timeWeek": 549,
+    "timeMonth": 606,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2023-06-05": 73
     }
@@ -395,11 +415,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 94,
+    "timeDay": 94,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   },
   {
@@ -407,40 +427,19 @@
     "url": "168.119.226.168",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "codext-customer-1",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 93,
+    "timeDay": 93,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
-      "2023-07-30": 52,
-      "2023-07-29": 241
-    }
-  },
-  {
-    "name": "Codext Coturn",
-    "url": "49.13.54.252",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "codext-coturn",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-07-30": 52,
+      "2023-07-30": 593,
       "2023-07-29": 241
     }
   },
@@ -461,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-30": 52,
+      "2023-07-30": 593,
       "2023-07-29": 241
     }
   }
