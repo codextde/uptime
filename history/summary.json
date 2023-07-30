@@ -370,18 +370,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smartbell-db",
     "status": "down",
-    "uptime": "78.55%",
-    "uptimeDay": "78.55%",
-    "uptimeWeek": "78.55%",
-    "uptimeMonth": "78.55%",
-    "uptimeYear": "78.55%",
+    "uptime": "67.99%",
+    "uptimeDay": "67.99%",
+    "uptimeWeek": "67.99%",
+    "uptimeMonth": "67.99%",
+    "uptimeYear": "67.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-30": 0
+      "2023-07-30": 1
     }
   },
   {
@@ -428,11 +428,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "codext-customer-1",
     "status": "up",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 93,
     "timeDay": 93,
     "timeWeek": 93,
@@ -460,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-30": 593,
+      "2023-07-30": 594,
       "2023-07-29": 241
     }
   }
