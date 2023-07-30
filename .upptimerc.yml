@@ -35,6 +35,10 @@ sites:
     url: https://api.paystory.de/
   - name: Smartbell API
     url: https://api.smartbell.codext.de/v1
+  - name: Smartbell DB 
+    check: "tcp-ping"
+    url: 167.235.158.98
+    port: 27017
   - name: WeTwo API
     url: https://api.we-two.de/apple-app-site-association
   - name: Codext Shopify Apps API
@@ -44,15 +48,15 @@ sites:
   - name: Codext Customer 1
     check: "tcp-ping"
     url: 168.119.226.168
-    port: 80
-  - name: Codext Coturn
-    check: "tcp-ping"
-    url: 49.13.54.252
-    port: 443
+    port: 22
+#  - name: Codext Coturn
+#    check: "tcp-ping"
+#    url: 49.13.54.252
+#    port: 80
   - name: Codext Rustdesk Public Server
     check: "tcp-ping"
     url: 88.99.224.152
-    port: 443
+    port: 21115
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
