@@ -1,7 +1,7 @@
 url: https://sentry.codext.de/
-status: down
-code: 502
-responseTime: 432
-lastUpdated: 2023-09-20T10:32:07.342Z
+status: up
+code: 200
+responseTime: 956
+lastUpdated: 2023-09-20T10:52:04.609Z
 startTime: 2022-11-06T21:03:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
