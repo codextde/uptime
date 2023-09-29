@@ -17,8 +17,8 @@ sites:
 #    url: https://adeo.codext.de:8006/
   - name: Codext Server - Lina
     url: https://lina.codext.de:8006/
-  - name: Codext Openreplay
-    url: https://openreplay.codext.de/
+#  - name: Codext Openreplay
+#    url: https://openreplay.codext.de/
   - name: Codext Dashboard
     url: https://dashboard.codext.de/
   - name: Webaro Cloud
@@ -35,15 +35,15 @@ sites:
     url: https://api.paystory.de/
   - name: Smartbell API
     url: https://api.smartbell.codext.de/v1
-  - name: Smartbell DB 
-    check: "tcp-ping"
-    url: 167.235.158.98
-    port: 27017
+#  - name: Smartbell DB 
+#    check: "tcp-ping"
+#    url: 167.235.158.98
+#    port: 27017
   - name: WeTwo API
     url: https://api.we-two.de/apple-app-site-association
-  - name: Codext Shopify Apps API
-    check: "tcp-ping"
-    url: 49.13.16.142
+#  - name: Codext Shopify Apps API
+#    check: "tcp-ping"
+#    url: 49.13.16.142
     port: 22
   - name: Codext Customer 1
     check: "tcp-ping"
