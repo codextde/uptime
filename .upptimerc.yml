@@ -59,6 +59,19 @@ sites:
     port: 21115
   - name: Shopify Checkout
     url: https://sportnahrung-wehle.de/67705798956/checkouts/2796f5ffc00ed9db3595d418dba9cdb2
+  - name: GGM Gastro DK
+    url: https://ggmgastro.dk/
+  - name: GGM Gastro NO
+    url: https://ggmgastro.no/
+  - name: GGM SAP Export
+    url: https://ggm-sap-sync.codext.de
+  - name: Shopify Chatbot
+    url: https://shopify-chatbot.codext.de/
+  - name: SirPlus Konfigurator
+    url: https://sirplusconfig.codext.de
+  - name: Codext GmbH - Coolify
+    url: https://coolify.codext.de/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
