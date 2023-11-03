@@ -1,7 +1,7 @@
 url: https://dashboard.codext.de/
-status: up
-code: 200
-responseTime: 723
-lastUpdated: 2023-11-02T23:15:58.052Z
+status: down
+code: 403
+responseTime: 40
+lastUpdated: 2023-11-03T20:26:18.544Z
 startTime: 2022-11-08T22:48:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
