@@ -14,7 +14,7 @@
     "timeDay": 678,
     "timeWeek": 786,
     "timeMonth": 714,
-    "timeYear": 1143,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2023-04-10": 28
     }
@@ -163,7 +163,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentry.codext.de.ico",
     "slug": "codext-sentry",
     "status": "up",
-    "uptime": "83.72%",
+    "uptime": "83.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.61%",
@@ -371,11 +371,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "codext-customer-1",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 115,
     "timeDay": 93,
     "timeWeek": 111,
@@ -392,11 +392,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "codext-rustdesk-public-server",
     "status": "up",
-    "uptime": "84.14%",
+    "uptime": "84.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.38%",
-    "uptimeYear": "84.14%",
+    "uptimeMonth": "90.41%",
+    "uptimeYear": "84.23%",
     "time": 116,
     "timeDay": 93,
     "timeWeek": 111,
@@ -490,28 +490,30 @@
     "url": "https://ggm-sap-sync.codext.de",
     "icon": "https://icons.duckduckgo.com/ip3/ggm-sap-sync.codext.de.ico",
     "slug": "ggm-sap-export",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 441,
     "timeWeek": 441,
     "timeMonth": 445,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 2
+    }
   },
   {
     "name": "Shopify Chatbot",
     "url": "https://shopify-chatbot.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/shopify-chatbot.codext.de.ico",
     "slug": "shopify-chatbot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
@@ -519,7 +521,9 @@
     "timeWeek": 421,
     "timeMonth": 435,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 2
+    }
   },
   {
     "name": "SirPlus Konfigurator",
@@ -538,7 +542,7 @@
     "timeMonth": 429,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-11-17": 45,
+      "2023-11-17": 933,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -590,10 +594,10 @@
     "url": "https://coolify.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/coolify.codext.de.ico",
     "slug": "codext-gmb-h-coolify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
@@ -601,6 +605,8 @@
     "timeWeek": 406,
     "timeMonth": 428,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 1
+    }
   }
 ]
