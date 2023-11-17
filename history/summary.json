@@ -395,7 +395,7 @@
     "uptime": "84.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.41%",
+    "uptimeMonth": "90.43%",
     "uptimeYear": "84.23%",
     "time": 116,
     "timeDay": 93,
@@ -490,19 +490,19 @@
     "url": "https://ggm-sap-sync.codext.de",
     "icon": "https://icons.duckduckgo.com/ip3/ggm-sap-sync.codext.de.ico",
     "slug": "ggm-sap-export",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 456,
-    "timeDay": 441,
-    "timeWeek": 441,
+    "timeDay": 444,
+    "timeWeek": 442,
     "timeMonth": 445,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-11-17": 2
+      "2023-11-17": 9
     }
   },
   {
@@ -510,19 +510,19 @@
     "url": "https://shopify-chatbot.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/shopify-chatbot.codext.de.ico",
     "slug": "shopify-chatbot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 340,
-    "timeWeek": 421,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 444,
+    "timeDay": 385,
+    "timeWeek": 422,
     "timeMonth": 435,
-    "timeYear": 445,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2023-11-17": 2
+      "2023-11-17": 9
     }
   },
   {
@@ -542,7 +542,7 @@
     "timeMonth": 429,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-11-17": 933,
+      "2023-11-17": 941,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -594,19 +594,19 @@
     "url": "https://coolify.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/coolify.codext.de.ico",
     "slug": "codext-gmb-h-coolify",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 432,
-    "timeWeek": 406,
-    "timeMonth": 428,
-    "timeYear": 441,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 440,
+    "timeDay": 433,
+    "timeWeek": 410,
+    "timeMonth": 429,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2023-11-17": 1
+      "2023-11-17": 8
     }
   }
 ]
