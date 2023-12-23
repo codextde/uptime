@@ -53,10 +53,10 @@ sites:
 #    check: "tcp-ping"
 #    url: 49.13.54.252
 #    port: 80
-  - name: Codext Rustdesk Public Server
-    check: "tcp-ping"
-    url: 88.99.224.152
-    port: 21115
+#  - name: Codext Rustdesk Public Server
+#    check: "tcp-ping"
+#    url: 88.99.224.152
+#    port: 21115
   - name: Shopify Checkout
     url: https://sportnahrung-wehle.de/67705798956/checkouts/2796f5ffc00ed9db3595d418dba9cdb2
   - name: GGM Gastro DK
@@ -67,8 +67,8 @@ sites:
     url: https://ggm-sap-sync.codext.de
   - name: Shopify Chatbot
     url: https://shopify-chatbot.codext.de/
-  - name: SirPlus Konfigurator
-    url: https://sirplusconfig.codext.de
+#  - name: SirPlus Konfigurator
+#    url: https://sirplusconfig.codext.de
   - name: Codext GmbH - Coolify
     url: https://coolify.codext.de/
 
