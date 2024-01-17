@@ -226,19 +226,19 @@
     "url": "https://convert-any.com/",
     "icon": "https://icons.duckduckgo.com/ip3/convert-any.com.ico",
     "slug": "convert-any",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 695,
-    "timeWeek": 280,
-    "timeMonth": 173,
-    "timeYear": 158,
+    "time": 163,
+    "timeDay": 587,
+    "timeWeek": 290,
+    "timeMonth": 179,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 7
     }
   },
   {
@@ -305,7 +305,7 @@
     "slug": "we-two-api",
     "status": "up",
     "uptime": "96.14%",
-    "uptimeDay": "6.06%",
+    "uptimeDay": "6.58%",
     "uptimeWeek": "85.81%",
     "uptimeMonth": "89.38%",
     "uptimeYear": "96.14%",
