@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 802,
     "timeMonth": 865,
-    "timeYear": 960,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2023-04-10": 28
     }
@@ -24,10 +24,10 @@
     "url": "https://analytics.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.codext.de.ico",
     "slug": "codext-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 685,
@@ -36,6 +36,7 @@
     "timeMonth": 684,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2024-01-22": 2,
       "2023-11-04": 832,
       "2023-11-03": 214,
       "2023-08-09": 17
@@ -122,9 +123,9 @@
     "slug": "codext-dashboard",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.80%",
     "time": 626,
     "timeDay": 0,
@@ -132,7 +133,7 @@
     "timeMonth": 623,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2024-01-22": 0,
+      "2024-01-22": 13,
       "2023-11-04": 833,
       "2023-11-03": 214
     }
@@ -167,7 +168,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.55%",
+    "uptimeYear": "96.56%",
     "time": 837,
     "timeDay": 0,
     "timeWeek": 815,
@@ -232,7 +233,7 @@
     "timeDay": 0,
     "timeWeek": 309,
     "timeMonth": 181,
-    "timeYear": 159,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -250,7 +251,7 @@
     "timeDay": 0,
     "timeWeek": 503,
     "timeMonth": 481,
-    "timeYear": 452,
+    "timeYear": 453,
     "dailyMinutesDown": {}
   },
   {
@@ -268,7 +269,7 @@
     "timeDay": 0,
     "timeWeek": 592,
     "timeMonth": 638,
-    "timeYear": 632,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   },
   {
