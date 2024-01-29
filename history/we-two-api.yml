@@ -1,7 +1,7 @@
 url: https://api.we-two.de/apple-app-site-association
-status: down
-code: 502
-responseTime: 478
-lastUpdated: 2024-01-28T23:07:10.171Z
+status: up
+code: 200
+responseTime: 4376
+lastUpdated: 2024-01-29T08:45:47.180Z
 startTime: 2023-06-05T09:53:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
