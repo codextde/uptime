@@ -4,11 +4,11 @@
     "url": "https://codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.de.ico",
     "slug": "codext-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1117,
     "timeDay": 865,
@@ -16,6 +16,7 @@
     "timeMonth": 911,
     "timeYear": 929,
     "dailyMinutesDown": {
+      "2024-02-04": 8,
       "2023-04-10": 28
     }
   },
@@ -50,54 +51,60 @@
     "url": "https://codext.link/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.link.ico",
     "slug": "codext-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 407,
     "timeWeek": 405,
     "timeMonth": 398,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-04": 6
+    }
   },
   {
     "name": "Codext Server - Server01",
     "url": "https://server01.codext.de:8443/",
     "icon": "https://icons.duckduckgo.com/ip3/server01.codext.de.ico",
     "slug": "codext-server-server01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 890,
     "timeDay": 760,
     "timeWeek": 878,
     "timeMonth": 916,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-04": 6
+    }
   },
   {
     "name": "Codext Server - Lara",
     "url": "https://lara.codext.de:8006/",
     "icon": "https://icons.duckduckgo.com/ip3/lara.codext.de.ico",
     "slug": "codext-server-lara",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 475,
     "timeDay": 349,
     "timeWeek": 447,
     "timeMonth": 480,
     "timeYear": 468,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-04": 5
+    }
   },
   {
     "name": "Codext Server - Lina",
@@ -123,18 +130,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.codext.de.ico",
     "slug": "codext-dashboard",
     "status": "down",
-    "uptime": "97.17%",
+    "uptime": "97.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.41%",
-    "uptimeYear": "96.50%",
+    "uptimeMonth": "59.85%",
+    "uptimeYear": "96.45%",
     "time": 626,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 629,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2024-02-04": 9,
+      "2024-02-04": 254,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
@@ -177,11 +184,11 @@
     "url": "https://sentry.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/sentry.codext.de.ico",
     "slug": "codext-sentry",
-    "status": "up",
-    "uptime": "86.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "86.56%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.56%",
     "time": 839,
     "timeDay": 738,
@@ -189,6 +196,7 @@
     "timeMonth": 930,
     "timeYear": 839,
     "dailyMinutesDown": {
+      "2024-02-04": 2,
       "2023-11-04": 833,
       "2023-11-03": 214,
       "2023-10-03": 197,
@@ -213,10 +221,10 @@
     "url": "https://codext.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.cloud.ico",
     "slug": "codext-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
@@ -224,7 +232,9 @@
     "timeWeek": 449,
     "timeMonth": 473,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-04": 1
+    }
   },
   {
     "name": "convertAny",
@@ -285,9 +295,9 @@
     "url": "https://api.smartbell.codext.de/v1",
     "icon": "https://icons.duckduckgo.com/ip3/api.smartbell.codext.de.ico",
     "slug": "smartbell-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -297,6 +307,7 @@
     "timeMonth": 435,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2024-02-04": 0,
       "2023-04-11": 373,
       "2023-04-10": 92
     }
