@@ -113,17 +113,18 @@
     "slug": "codext-server-lina",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 456,
     "timeDay": 364,
     "timeWeek": 409,
     "timeMonth": 432,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2024-02-17": 2
+      "2024-02-18": 9,
+      "2024-02-17": 20
     }
   },
   {
@@ -132,10 +133,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.codext.de.ico",
     "slug": "codext-dashboard",
     "status": "down",
-    "uptime": "94.26%",
+    "uptime": "94.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.45%",
+    "uptimeMonth": "14.39%",
     "uptimeYear": "92.67%",
     "time": 626,
     "timeDay": 0,
@@ -143,7 +144,8 @@
     "timeMonth": 577,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2024-02-17": 1422,
+      "2024-02-18": 9,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -201,10 +203,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentry.codext.de.ico",
     "slug": "codext-sentry",
     "status": "down",
-    "uptime": "84.01%",
+    "uptime": "84.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.59%",
+    "uptimeMonth": "54.53%",
     "uptimeYear": "93.77%",
     "time": 827,
     "timeDay": 407,
@@ -212,7 +214,8 @@
     "timeMonth": 700,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2024-02-17": 1422,
+      "2024-02-18": 9,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -290,17 +293,18 @@
     "slug": "deinkind-store",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "66.96%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "65.07%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.90%",
     "time": 423,
     "timeDay": 124,
     "timeWeek": 341,
     "timeMonth": 459,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2024-02-17": 476
+      "2024-02-18": 9,
+      "2024-02-17": 494
     }
   },
   {
