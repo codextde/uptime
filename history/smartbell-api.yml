@@ -1,7 +1,7 @@
 url: https://api.smartbell.codext.de/v1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-09T15:19:12.705Z
+status: up
+code: 200
+responseTime: 478
+lastUpdated: 2024-03-09T15:26:33.003Z
 startTime: 2022-11-08T22:49:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
