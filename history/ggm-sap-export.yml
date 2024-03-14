@@ -1,7 +1,7 @@
 url: https://ggm-sap-sync.codext.de
-status: up
-code: 200
-responseTime: 493
-lastUpdated: 2024-03-13T23:07:37.747Z
+status: down
+code: 502
+responseTime: 564
+lastUpdated: 2024-03-14T12:27:48.548Z
 startTime: 2023-10-04T08:57:36.887Z
 generator: Upptime <https://github.com/upptime/upptime>
