@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2024-05-20": 671,
+      "2024-05-20": 681,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-05-20": 671,
+      "2024-05-20": 681,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -402,7 +402,7 @@
     "timeMonth": 463,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-05-20": 671,
+      "2024-05-20": 681,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -552,19 +552,19 @@
     "url": "https://convert-any.com/",
     "icon": "https://icons.duckduckgo.com/ip3/convert-any.com.ico",
     "slug": "convert-any",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 128,
-    "timeWeek": 129,
-    "timeMonth": 136,
+    "timeDay": 148,
+    "timeWeek": 135,
+    "timeMonth": 137,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-05-20": 0
+      "2024-05-20": 10
     }
   },
   {
@@ -584,7 +584,7 @@
     "timeMonth": 152,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-05-20": 671,
+      "2024-05-20": 681,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -799,7 +799,7 @@
     "timeMonth": 332,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2024-05-20": 671,
+      "2024-05-20": 681,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
