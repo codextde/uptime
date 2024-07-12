@@ -71,7 +71,10 @@ sites:
 #    url: https://sirplusconfig.codext.de
   - name: Codext GmbH - Coolify
     url: https://coolify.codext.de/
-
+  - name: Solakon App API
+    url: https://api.app.solakon.de
+  - name: Solakon App DB
+    url: https://db.app.solakon.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
