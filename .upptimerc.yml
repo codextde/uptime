@@ -15,12 +15,12 @@ sites:
     url: https://lara.codext.de:8006/
 #  - name: Codext Server - Adeo
 #    url: https://adeo.codext.de:8006/
-  - name: Codext Server - Lina
-    url: https://lina.codext.de:8006/
+#  - name: Codext Server - Lina
+#    url: https://lina.codext.de:8006/
 #  - name: Codext Openreplay
 #    url: https://openreplay.codext.de/
-  - name: Codext Dashboard
-    url: https://dashboard.codext.de/
+#  - name: Codext Dashboard
+#    url: https://dashboard.codext.de/
   - name: Webaro Cloud
     url: https://webaro.cloud/
   - name: Codext Sentry
@@ -29,8 +29,8 @@ sites:
     url: https://codext.cloud/
   - name: convertAny
     url: https://convert-any.com/
-  - name: deinkind.store
-    url: https://deinkind.store/
+#  - name: deinkind.store
+#    url: https://deinkind.store/
   - name: PayStory API
     url: https://api.paystory.de/
   - name: Smartbell API
@@ -57,8 +57,8 @@ sites:
 #    check: "tcp-ping"
 #    url: 88.99.224.152
 #    port: 21115
-  - name: Shopify Checkout
-    url: https://sportnahrung-wehle.de/67705798956/checkouts/2796f5ffc00ed9db3595d418dba9cdb2
+#  - name: Shopify Checkout
+#    url: https://sportnahrung-wehle.de/67705798956/checkouts/2796f5ffc00ed9db3595d418dba9cdb2
   - name: GGM Gastro DK
     url: https://ggmgastro.dk/
   - name: GGM Gastro NO
