@@ -148,7 +148,7 @@
     "timeMonth": 426,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-07-18": 1357,
+      "2024-07-18": 1364,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -567,19 +567,19 @@
     "url": "https://api.app.solakon.de",
     "icon": "https://icons.duckduckgo.com/ip3/api.app.solakon.de.ico",
     "slug": "solakon-app-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 565,
-    "timeDay": 655,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 558,
+    "timeDay": 604,
+    "timeWeek": 558,
+    "timeMonth": 558,
+    "timeYear": 558,
     "dailyMinutesDown": {
-      "2024-07-18": 1
+      "2024-07-18": 7
     }
   },
   {
@@ -599,7 +599,7 @@
     "timeMonth": 171,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-07-18": 1357,
+      "2024-07-18": 1364,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
