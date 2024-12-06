@@ -114,10 +114,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/webaro.cloud.ico",
     "slug": "webaro-cloud",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.22%",
-    "uptimeMonth": "92.92%",
+    "uptimeWeek": "69.12%",
+    "uptimeMonth": "92.89%",
     "uptimeYear": "99.39%",
     "time": 759,
     "timeDay": 874,
@@ -125,7 +125,7 @@
     "timeMonth": 803,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2024-12-06": 1347,
+      "2024-12-06": 1358,
       "2024-12-05": 1440,
       "2024-12-04": 315,
       "2024-05-10": 53,
@@ -497,19 +497,19 @@
     "url": "https://ggmgastro.dk/",
     "icon": "https://icons.duckduckgo.com/ip3/ggmgastro.dk.ico",
     "slug": "ggm-gastro-dk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 811,
-    "timeDay": 808,
-    "timeWeek": 907,
-    "timeMonth": 1046,
-    "timeYear": 848,
+    "timeDay": 1001,
+    "timeWeek": 943,
+    "timeMonth": 1051,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2024-12-06": 1
+      "2024-12-06": 10
     }
   },
   {
@@ -570,7 +570,7 @@
     "timeMonth": 0,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2024-12-06": 1348,
+      "2024-12-06": 1358,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -691,7 +691,7 @@
     "timeMonth": 0,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-12-06": 1348,
+      "2024-12-06": 1358,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -832,7 +832,7 @@
     "timeMonth": 175,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-12-06": 1348,
+      "2024-12-06": 1358,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
