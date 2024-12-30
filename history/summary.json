@@ -502,19 +502,19 @@
     "url": "https://ggmgastro.dk/",
     "icon": "https://icons.duckduckgo.com/ip3/ggmgastro.dk.ico",
     "slug": "ggm-gastro-dk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 814,
-    "timeDay": 649,
-    "timeWeek": 822,
-    "timeMonth": 875,
-    "timeYear": 871,
+    "timeDay": 662,
+    "timeWeek": 804,
+    "timeMonth": 869,
+    "timeYear": 870,
     "dailyMinutesDown": {
-      "2024-12-30": 1
+      "2024-12-30": 9
     }
   },
   {
@@ -575,7 +575,7 @@
     "timeMonth": 0,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2024-12-30": 1386,
+      "2024-12-30": 1395,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -720,7 +720,7 @@
     "timeMonth": 0,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2024-12-30": 1386,
+      "2024-12-30": 1395,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -885,7 +885,7 @@
     "timeMonth": 178,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-12-30": 1386,
+      "2024-12-30": 1395,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
