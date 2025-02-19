@@ -401,19 +401,19 @@
     "url": "https://api.paystory.de/",
     "icon": "https://icons.duckduckgo.com/ip3/api.paystory.de.ico",
     "slug": "pay-story-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 554,
-    "timeWeek": 684,
-    "timeMonth": 684,
+    "time": 633,
+    "timeDay": 687,
+    "timeWeek": 701,
+    "timeMonth": 688,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2025-02-19": 0
+      "2025-02-19": 8
     }
   },
   {
@@ -538,7 +538,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shopify-chatbot.codext.de.ico",
     "slug": "shopify-chatbot",
     "status": "down",
-    "uptime": "65.12%",
+    "uptime": "65.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -549,7 +549,7 @@
     "timeMonth": 0,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-02-19": 1309,
+      "2025-02-19": 1316,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -745,7 +745,7 @@
     "timeMonth": 0,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2025-02-19": 1309,
+      "2025-02-19": 1317,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -961,7 +961,7 @@
     "timeMonth": 196,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-02-19": 1309,
+      "2025-02-19": 1317,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
