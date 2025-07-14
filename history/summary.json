@@ -161,7 +161,7 @@
     "timeMonth": 3210,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2025-07-14": 1053,
+      "2025-07-14": 1064,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -283,19 +283,19 @@
     "url": "https://convert-any.com/",
     "icon": "https://icons.duckduckgo.com/ip3/convert-any.com.ico",
     "slug": "convert-any",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 130,
-    "timeWeek": 175,
-    "timeMonth": 188,
-    "timeYear": 166,
+    "time": 172,
+    "timeDay": 1599,
+    "timeWeek": 572,
+    "timeMonth": 316,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 11
     }
   },
   {
@@ -446,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2025-07-14": 1054,
+      "2025-07-14": 1064,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -787,7 +787,7 @@
     "timeMonth": 0,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-07-14": 1054,
+      "2025-07-14": 1064,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -1148,7 +1148,7 @@
     "timeMonth": 183,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-07-14": 1054,
+      "2025-07-14": 1064,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
