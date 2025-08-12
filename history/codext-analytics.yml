@@ -1,7 +1,7 @@
 url: https://analytics.codext.de/
-status: up
-code: 200
-responseTime: 744
-lastUpdated: 2025-08-11T23:06:37.595Z
+status: down
+code: 500
+responseTime: 23042
+lastUpdated: 2025-08-12T20:23:38.238Z
 startTime: 2023-06-05T09:59:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
