@@ -22,19 +22,19 @@
     "url": "https://analytics.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.codext.de.ico",
     "slug": "codext-analytics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 884,
-    "timeDay": 930,
-    "timeWeek": 941,
-    "timeMonth": 1803,
+    "timeDay": 905,
+    "timeWeek": 933,
+    "timeMonth": 1775,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-10-28": 1,
+      "2025-10-28": 10,
       "2025-08-15": 19,
       "2025-06-11": 16
     }
@@ -173,7 +173,7 @@
     "timeMonth": 3011,
     "timeYear": 1839,
     "dailyMinutesDown": {
-      "2025-10-28": 899,
+      "2025-10-28": 909,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -518,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 900,
+      "2025-10-28": 909,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -902,7 +902,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 900,
+      "2025-10-28": 909,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -1306,7 +1306,7 @@
     "timeMonth": 204,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-10-28": 900,
+      "2025-10-28": 909,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
