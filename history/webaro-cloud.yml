@@ -1,7 +1,7 @@
 url: https://webaro.cloud/
-status: up
-code: 200
-responseTime: 748
-lastUpdated: 2025-11-18T12:15:33.830Z
+status: down
+code: 500
+responseTime: 125
+lastUpdated: 2025-11-18T13:15:10.546Z
 startTime: 2022-11-06T21:03:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
