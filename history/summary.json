@@ -26,9 +26,9 @@
     "slug": "codext-analytics",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 906,
     "timeDay": 646,
@@ -36,7 +36,7 @@
     "timeMonth": 879,
     "timeYear": 997,
     "dailyMinutesDown": {
-      "2025-11-18": 93,
+      "2025-11-18": 82,
       "2025-08-15": 19,
       "2025-06-11": 16
     }
@@ -171,14 +171,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.07%",
+    "uptimeYear": "53.05%",
     "time": 1660,
     "timeDay": 3675,
     "timeWeek": 3427,
     "timeMonth": 3358,
     "timeYear": 1994,
     "dailyMinutesDown": {
-      "2025-11-18": 943,
+      "2025-11-18": 1014,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -360,17 +360,17 @@
     "url": "https://codext.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/codext.cloud.ico",
     "slug": "codext-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.98%",
+    "uptimeDay": "90.95%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
-    "time": 549,
-    "timeDay": 430,
-    "timeWeek": 469,
-    "timeMonth": 489,
-    "timeYear": 576,
+    "time": 551,
+    "timeDay": 568,
+    "timeWeek": 535,
+    "timeMonth": 511,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2024-12-31": 24
@@ -517,9 +517,9 @@
     "slug": "ggm-sap-export",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "93.51%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 534,
     "timeDay": 397,
@@ -527,7 +527,7 @@
     "timeMonth": 508,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2025-11-18": 94
+      "2025-11-18": 83
     }
   },
   {
@@ -547,7 +547,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 944,
+      "2025-11-18": 1014,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -931,7 +931,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 944,
+      "2025-11-18": 1014,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1336,7 +1336,7 @@
     "timeMonth": 259,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-11-18": 944,
+      "2025-11-18": 1014,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
