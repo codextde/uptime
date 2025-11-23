@@ -178,7 +178,7 @@
     "timeMonth": 3358,
     "timeYear": 2025,
     "dailyMinutesDown": {
-      "2025-11-23": 508,
+      "2025-11-23": 520,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -557,7 +557,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 509,
+      "2025-11-23": 521,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -941,7 +941,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 509,
+      "2025-11-23": 521,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -1313,19 +1313,19 @@
     "url": "https://api.app.solakon.de",
     "icon": "https://icons.duckduckgo.com/ip3/api.app.solakon.de.ico",
     "slug": "solakon-app-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 582,
-    "timeDay": 909,
-    "timeWeek": 592,
-    "timeMonth": 623,
+    "timeDay": 831,
+    "timeWeek": 588,
+    "timeMonth": 620,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2025-11-23": 1,
+      "2025-11-23": 12,
       "2025-11-18": 121,
       "2024-12-04": 28
     }
@@ -1347,7 +1347,7 @@
     "timeMonth": 264,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-11-23": 509,
+      "2025-11-23": 521,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
