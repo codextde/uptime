@@ -1,7 +1,7 @@
 url: https://api.app.solakon.de
-status: up
-code: 200
-responseTime: 520
-lastUpdated: 2025-11-23T08:40:05.373Z
+status: down
+code: 502
+responseTime: 736
+lastUpdated: 2025-11-23T11:43:12.510Z
 startTime: 2024-07-12T15:49:30.028Z
 generator: Upptime <https://github.com/upptime/upptime>
