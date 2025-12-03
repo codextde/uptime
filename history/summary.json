@@ -24,18 +24,19 @@
     "url": "https://analytics.codext.de/",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.codext.de.ico",
     "slug": "codext-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 928,
+    "time": 929,
     "timeDay": 941,
     "timeWeek": 1258,
     "timeMonth": 984,
     "timeYear": 1024,
     "dailyMinutesDown": {
+      "2025-12-03": 4,
       "2025-11-18": 82,
       "2025-08-15": 19,
       "2025-06-11": 16
@@ -178,7 +179,7 @@
     "timeMonth": 3305,
     "timeYear": 2090,
     "dailyMinutesDown": {
-      "2025-12-03": 1269,
+      "2025-12-03": 1295,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -377,9 +378,9 @@
     "slug": "codext-cloud",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 553,
     "timeDay": 426,
@@ -387,7 +388,6 @@
     "timeMonth": 517,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2025-12-03": 7,
       "2025-11-18": 130,
       "2024-12-31": 24
     }
@@ -568,7 +568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 1269,
+      "2025-12-03": 1295,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -952,7 +952,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 1269,
+      "2025-12-03": 1295,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -1358,7 +1358,7 @@
     "timeMonth": 248,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-12-03": 1270,
+      "2025-12-03": 1295,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
