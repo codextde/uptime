@@ -1,7 +1,7 @@
 url: https://server01.codext.de:8443/
-status: up
-code: 200
-responseTime: 1071
-lastUpdated: 2025-12-22T23:07:03.266Z
+status: down
+code: 500
+responseTime: 607
+lastUpdated: 2025-12-23T09:28:57.623Z
 startTime: 2022-11-06T20:38:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
