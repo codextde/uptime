@@ -49,9 +49,9 @@
     "slug": "codext-link",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.80%",
     "time": 751,
     "timeDay": 6855,
@@ -59,7 +59,6 @@
     "timeMonth": 1093,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2026-01-28": 15,
       "2026-01-20": 77,
       "2025-12-25": 43,
       "2025-12-23": 22,
@@ -92,9 +91,9 @@
     "slug": "codext-server-server01",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 958,
     "timeDay": 1019,
@@ -102,7 +101,6 @@
     "timeMonth": 1191,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2026-01-28": 14,
       "2026-01-20": 17,
       "2025-08-15": 17
     }
@@ -112,19 +110,19 @@
     "url": "https://lara.codext.de:8006/",
     "icon": "https://icons.duckduckgo.com/ip3/lara.codext.de.ico",
     "slug": "codext-server-lara",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 493,
-    "timeDay": 433,
-    "timeWeek": 462,
-    "timeMonth": 489,
-    "timeYear": 500,
+    "timeDay": 419,
+    "timeWeek": 455,
+    "timeMonth": 487,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2026-01-28": 1
+      "2026-01-28": 12
     }
   },
   {
@@ -177,7 +175,7 @@
     "timeMonth": 3196,
     "timeYear": 2484,
     "dailyMinutesDown": {
-      "2026-01-28": 1414,
+      "2026-01-28": 1425,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -623,7 +621,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 1414,
+      "2026-01-28": 1425,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -1007,7 +1005,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 1414,
+      "2026-01-28": 1425,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -1412,7 +1410,7 @@
     "timeMonth": 192,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-01-28": 1414,
+      "2026-01-28": 1425,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
