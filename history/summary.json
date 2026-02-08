@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 463,
-    "timeDay": 253,
-    "timeWeek": 222,
-    "timeMonth": 296,
+    "timeDay": 233,
+    "timeWeek": 220,
+    "timeMonth": 298,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2025-11-18": 97
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 922,
-    "timeDay": 676,
-    "timeWeek": 626,
-    "timeMonth": 904,
-    "timeYear": 1102,
+    "time": 923,
+    "timeDay": 654,
+    "timeWeek": 608,
+    "timeMonth": 891,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2026-01-20": 18,
       "2025-11-18": 82,
@@ -54,9 +54,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.80%",
     "time": 753,
-    "timeDay": 646,
-    "timeWeek": 541,
-    "timeMonth": 1100,
+    "timeDay": 530,
+    "timeWeek": 539,
+    "timeMonth": 1102,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2026-01-20": 77,
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 966,
-    "timeDay": 1479,
-    "timeWeek": 1258,
-    "timeMonth": 1214,
-    "timeYear": 983,
+    "time": 967,
+    "timeDay": 1242,
+    "timeWeek": 1236,
+    "timeMonth": 1219,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2026-01-20": 17,
       "2025-08-15": 17
@@ -117,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 554,
-    "timeWeek": 506,
-    "timeMonth": 489,
+    "timeDay": 530,
+    "timeWeek": 508,
+    "timeMonth": 491,
     "timeYear": 501,
     "dailyMinutesDown": {}
   },
@@ -135,10 +135,10 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.89%",
     "time": 820,
-    "timeDay": 783,
-    "timeWeek": 683,
-    "timeMonth": 1303,
-    "timeYear": 820,
+    "timeDay": 628,
+    "timeWeek": 657,
+    "timeMonth": 1305,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2026-01-27": 28,
       "2026-01-25": 18,
@@ -162,18 +162,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentry.codext.de.ico",
     "slug": "codext-sentry",
     "status": "down",
-    "uptime": "56.11%",
+    "uptime": "56.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.06%",
+    "uptimeYear": "30.79%",
     "time": 2093,
-    "timeDay": 3847,
-    "timeWeek": 3309,
-    "timeMonth": 3301,
+    "timeDay": 854,
+    "timeWeek": 3260,
+    "timeMonth": 3213,
     "timeYear": 2543,
     "dailyMinutesDown": {
-      "2026-02-07": 16,
+      "2026-02-08": 23,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -425,8 +426,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 870,
-      "2025-02-08": 18
+      "2025-05-31": 870
     }
   },
   {
@@ -441,9 +441,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 554,
-    "timeDay": 619,
-    "timeWeek": 529,
-    "timeMonth": 493,
+    "timeDay": 513,
+    "timeWeek": 521,
+    "timeMonth": 496,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2025-11-18": 130
@@ -461,9 +461,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 197,
-    "timeDay": 186,
-    "timeWeek": 181,
-    "timeMonth": 193,
+    "timeDay": 263,
+    "timeWeek": 191,
+    "timeMonth": 197,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2026-01-22": 16,
@@ -484,10 +484,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
-    "timeDay": 863,
-    "timeWeek": 742,
-    "timeMonth": 694,
-    "timeYear": 679,
+    "timeDay": 706,
+    "timeWeek": 729,
+    "timeMonth": 697,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   },
   {
@@ -502,10 +502,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 505,
-    "timeDay": 709,
-    "timeWeek": 545,
-    "timeMonth": 534,
-    "timeYear": 510,
+    "timeDay": 457,
+    "timeWeek": 540,
+    "timeMonth": 536,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-11-20": 36,
       "2025-11-19": 7
@@ -523,9 +523,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 651,
-    "timeDay": 745,
-    "timeWeek": 704,
-    "timeMonth": 685,
+    "timeDay": 676,
+    "timeWeek": 687,
+    "timeMonth": 687,
     "timeYear": 659,
     "dailyMinutesDown": {}
   },
@@ -541,8 +541,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 146,
-    "timeWeek": 131,
+    "timeDay": 120,
+    "timeWeek": 128,
     "timeMonth": 127,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -559,10 +559,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 833,
-    "timeDay": 2713,
-    "timeWeek": 1120,
-    "timeMonth": 1014,
-    "timeYear": 802,
+    "timeDay": 655,
+    "timeWeek": 1107,
+    "timeMonth": 1017,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2025-12-05": 33,
       "2025-08-07": 16
@@ -579,11 +579,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
-    "time": 954,
-    "timeDay": 491,
-    "timeWeek": 1129,
-    "timeMonth": 1405,
-    "timeYear": 952,
+    "time": 953,
+    "timeDay": 752,
+    "timeWeek": 1139,
+    "timeMonth": 1411,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2026-02-05": 22,
       "2026-01-10": 39,
@@ -603,10 +603,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 577,
-    "timeDay": 592,
-    "timeWeek": 580,
-    "timeMonth": 624,
-    "timeYear": 599,
+    "timeDay": 620,
+    "timeWeek": 563,
+    "timeMonth": 630,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2025-11-20": 36,
       "2025-11-19": 6,
@@ -619,7 +619,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shopify-chatbot.codext.de.ico",
     "slug": "shopify-chatbot",
     "status": "down",
-    "uptime": "38.35%",
+    "uptime": "38.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -630,7 +630,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-07": 17,
+      "2026-02-08": 23,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -993,8 +994,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -1003,7 +1003,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coolify.codext.de.ico",
     "slug": "codext-gmb-h-coolify",
     "status": "down",
-    "uptime": "38.35%",
+    "uptime": "38.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1014,7 +1014,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-07": 17,
+      "2026-02-08": 23,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -1377,8 +1378,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -1393,10 +1393,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 598,
-    "timeDay": 607,
-    "timeWeek": 623,
-    "timeMonth": 583,
-    "timeYear": 613,
+    "timeDay": 622,
+    "timeWeek": 614,
+    "timeMonth": 586,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2025-11-24": 17,
       "2025-11-18": 121
@@ -1414,12 +1414,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 192,
-    "timeDay": 246,
-    "timeWeek": 193,
-    "timeMonth": 195,
+    "timeDay": 218,
+    "timeWeek": 203,
+    "timeMonth": 196,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2026-02-07": 17,
+      "2026-02-08": 23,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -1782,8 +1783,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   }
 ]
