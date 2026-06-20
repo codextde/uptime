@@ -1,7 +1,7 @@
 url: https://ggmgastro.no/
-status: up
-code: 200
-responseTime: 2533
-lastUpdated: 2026-06-19T23:56:13.661Z
+status: down
+code: 429
+responseTime: 230
+lastUpdated: 2026-06-20T01:06:55.436Z
 startTime: 2023-10-04T08:57:35.018Z
 generator: Upptime <https://github.com/upptime/upptime>
