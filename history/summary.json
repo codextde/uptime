@@ -173,7 +173,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.86%",
+    "uptimeYear": "27.87%",
     "time": 2646,
     "timeDay": 1125,
     "timeWeek": 1285,
@@ -580,16 +580,16 @@
     "url": "https://ggmgastro.dk/",
     "icon": "https://icons.duckduckgo.com/ip3/ggmgastro.dk.ico",
     "slug": "ggm-gastro-dk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.89%",
     "time": 832,
-    "timeDay": 2065,
-    "timeWeek": 1107,
-    "timeMonth": 758,
+    "timeDay": 1608,
+    "timeWeek": 1061,
+    "timeMonth": 756,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-12-05": 33,
@@ -600,7 +600,7 @@
       "2026-07-18": 60,
       "2026-08-01": 50,
       "2026-08-02": 74,
-      "2026-08-19": 1
+      "2026-08-19": 37
     }
   },
   {
@@ -688,7 +688,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 235,
+      "2026-08-19": 272,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1061,7 +1061,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coolify.codext.de.ico",
     "slug": "codext-gmb-h-coolify",
     "status": "down",
-    "uptime": "31.30%",
+    "uptime": "31.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1072,7 +1072,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 235,
+      "2026-08-19": 272,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1479,7 +1479,7 @@
     "timeMonth": 52,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2026-08-19": 236,
+      "2026-08-19": 272,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
