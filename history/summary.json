@@ -173,7 +173,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.73%",
+    "uptimeYear": "28.74%",
     "time": 2650,
     "timeDay": 1326,
     "timeWeek": 1354,
@@ -577,17 +577,17 @@
     "url": "https://ggmgastro.dk/",
     "icon": "https://icons.duckduckgo.com/ip3/ggmgastro.dk.ico",
     "slug": "ggm-gastro-dk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.87%",
-    "time": 848,
-    "timeDay": 2554,
-    "timeWeek": 1627,
-    "timeMonth": 935,
-    "timeYear": 879,
+    "uptimeDay": "88.66%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.86%",
+    "time": 851,
+    "timeDay": 2381,
+    "timeWeek": 1632,
+    "timeMonth": 954,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-12-05": 33,
       "2026-04-29": 40,
@@ -598,7 +598,7 @@
       "2026-08-01": 50,
       "2026-08-02": 74,
       "2026-08-19": 37,
-      "2026-08-22": 129
+      "2026-08-22": 164
     }
   },
   {
@@ -687,7 +687,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 494,
+      "2026-08-22": 530,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1071,7 +1071,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 494,
+      "2026-08-22": 530,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1478,7 +1478,7 @@
     "timeMonth": 52,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-08-22": 494,
+      "2026-08-22": 530,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
