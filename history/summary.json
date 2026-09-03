@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 458,
     "timeDay": 343,
-    "timeWeek": 267,
+    "timeWeek": 276,
     "timeMonth": 225,
     "timeYear": 469,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
     "uptimeYear": "99.96%",
     "time": 969,
     "timeDay": 977,
-    "timeWeek": 728,
+    "timeWeek": 725,
     "timeMonth": 654,
     "timeYear": 887,
     "dailyMinutesDown": {
@@ -59,7 +59,7 @@
     "uptimeYear": "99.88%",
     "time": 832,
     "timeDay": 699,
-    "timeWeek": 536,
+    "timeWeek": 544,
     "timeMonth": 532,
     "timeYear": 786,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeYear": "99.99%",
     "time": 1223,
     "timeDay": 2042,
-    "timeWeek": 1715,
+    "timeWeek": 1720,
     "timeMonth": 1722,
     "timeYear": 1322,
     "dailyMinutesDown": {
@@ -105,18 +105,20 @@
     "url": "https://lara.codext.de:8006/",
     "icon": "https://icons.duckduckgo.com/ip3/lara.codext.de.ico",
     "slug": "codext-server-lara",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
     "timeDay": 462,
-    "timeWeek": 436,
+    "timeWeek": 438,
     "timeMonth": 449,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-03": 1
+    }
   },
   {
     "name": "Webaro Cloud",
@@ -131,7 +133,7 @@
     "uptimeYear": "99.79%",
     "time": 726,
     "timeDay": 725,
-    "timeWeek": 545,
+    "timeWeek": 548,
     "timeMonth": 600,
     "timeYear": 761,
     "dailyMinutesDown": {
@@ -169,14 +171,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentry.codext.de.ico",
     "slug": "codext-sentry",
     "status": "up",
-    "uptime": "56.10%",
+    "uptime": "56.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.96%",
+    "uptimeYear": "32.13%",
     "time": 2668,
     "timeDay": 2099,
-    "timeWeek": 1591,
+    "timeWeek": 1596,
     "timeMonth": 1474,
     "timeYear": 2673,
     "dailyMinutesDown": {
@@ -443,7 +445,7 @@
     "uptimeYear": "99.97%",
     "time": 564,
     "timeDay": 618,
-    "timeWeek": 479,
+    "timeWeek": 483,
     "timeMonth": 467,
     "timeYear": 534,
     "dailyMinutesDown": {
@@ -464,7 +466,7 @@
     "uptimeYear": "99.96%",
     "time": 209,
     "timeDay": 184,
-    "timeWeek": 241,
+    "timeWeek": 253,
     "timeMonth": 215,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -487,7 +489,7 @@
     "uptimeYear": "99.92%",
     "time": 648,
     "timeDay": 608,
-    "timeWeek": 498,
+    "timeWeek": 492,
     "timeMonth": 501,
     "timeYear": 640,
     "dailyMinutesDown": {
@@ -512,7 +514,7 @@
     "uptimeYear": "99.98%",
     "time": 501,
     "timeDay": 479,
-    "timeWeek": 474,
+    "timeWeek": 478,
     "timeMonth": 476,
     "timeYear": 498,
     "dailyMinutesDown": {
@@ -534,7 +536,7 @@
     "uptimeYear": "100.00%",
     "time": 632,
     "timeDay": 588,
-    "timeWeek": 512,
+    "timeWeek": 522,
     "timeMonth": 508,
     "timeYear": 626,
     "dailyMinutesDown": {}
@@ -552,7 +554,7 @@
     "uptimeYear": "99.72%",
     "time": 121,
     "timeDay": 136,
-    "timeWeek": 121,
+    "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -573,7 +575,7 @@
     "uptimeYear": "99.85%",
     "time": 856,
     "timeDay": 741,
-    "timeWeek": 1028,
+    "timeWeek": 990,
     "timeMonth": 1068,
     "timeYear": 891,
     "dailyMinutesDown": {
@@ -602,7 +604,7 @@
     "uptimeYear": "99.65%",
     "time": 1105,
     "timeDay": 377,
-    "timeWeek": 1277,
+    "timeWeek": 1287,
     "timeMonth": 1348,
     "timeYear": 1291,
     "dailyMinutesDown": {
@@ -648,7 +650,7 @@
     "uptimeYear": "99.96%",
     "time": 627,
     "timeDay": 851,
-    "timeWeek": 690,
+    "timeWeek": 687,
     "timeMonth": 629,
     "timeYear": 654,
     "dailyMinutesDown": {
@@ -665,7 +667,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shopify-chatbot.codext.de.ico",
     "slug": "shopify-chatbot",
     "status": "down",
-    "uptime": "30.86%",
+    "uptime": "30.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -676,7 +678,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 149,
+      "2026-09-03": 1074,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1049,7 +1051,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coolify.codext.de.ico",
     "slug": "codext-gmb-h-coolify",
     "status": "down",
-    "uptime": "30.86%",
+    "uptime": "30.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1060,7 +1062,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 149,
+      "2026-09-03": 1074,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1440,7 +1442,7 @@
     "uptimeYear": "99.96%",
     "time": 639,
     "timeDay": 910,
-    "timeWeek": 695,
+    "timeWeek": 712,
     "timeMonth": 676,
     "timeYear": 656,
     "dailyMinutesDown": {
@@ -1463,11 +1465,11 @@
     "uptimeYear": "0.00%",
     "time": 164,
     "timeDay": 74,
-    "timeWeek": 81,
+    "timeWeek": 83,
     "timeMonth": 66,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2026-09-03": 149,
+      "2026-09-03": 1074,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
